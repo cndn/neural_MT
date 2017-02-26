@@ -1,0 +1,2040 @@
+last 5000 samples time: 0.950133085251
+epoch: 0
+dev_loss: 202702.993027
+last 5000 samples time: 100.537353992
+epoch: 0
+dev_loss: 139906.703384
+last 5000 samples time: 94.1364200115
+epoch: 0
+dev_loss: 128018.004051
+last 5000 samples time: 91.4895200729
+epoch: 0
+dev_loss: 121770.947556
+last 5000 samples time: 100.653433084
+epoch: 0
+dev_loss: 119754.492218
+last 5000 samples time: 92.0845961571
+epoch: 0
+dev_loss: 123330.352982
+last 5000 samples time: 99.6451630592
+epoch: 0
+dev_loss: 115204.370407
+last 5000 samples time: 97.0890550613
+epoch: 0
+dev_loss: 122632.161156
+last 5000 samples time: 92.0195858479
+epoch: 0
+dev_loss: 116833.823959
+last 5000 samples time: 92.7333872318
+epoch: 0
+dev_loss: 112771.054932
+last 5000 samples time: 97.2631568909
+epoch: 0
+dev_loss: 111003.369507
+last 5000 samples time: 96.0009598732
+epoch: 0
+dev_loss: 110538.547028
+last 5000 samples time: 98.8465409279
+epoch: 0
+dev_loss: 108620.881622
+last 5000 samples time: 96.5431768894
+epoch: 0
+dev_loss: 107252.997864
+last 5000 samples time: 98.4789919853
+epoch: 0
+dev_loss: 107301.03997
+last 5000 samples time: 95.077119112
+epoch: 0
+dev_loss: 106634.605309
+last 5000 samples time: 97.9031751156
+epoch: 0
+dev_loss: 104960.635468
+last 5000 samples time: 99.5339138508
+epoch: 0
+dev_loss: 104894.136818
+last 5000 samples time: 96.5325350761
+epoch: 0
+dev_loss: 103902.617958
+last 5000 samples time: 103.968449116
+epoch: 0
+dev_loss: 102962.370213
+last 5000 samples time: 0.716070890427
+epoch: 1
+dev_loss: 102305.659256
+last 5000 samples time: 94.7164759636
+epoch: 1
+dev_loss: 101732.428055
+last 5000 samples time: 94.023293972
+epoch: 1
+dev_loss: 100362.405807
+last 5000 samples time: 106.570508957
+epoch: 1
+dev_loss: 100337.692478
+last 5000 samples time: 91.9437201023
+epoch: 1
+dev_loss: 100016.140369
+last 5000 samples time: 94.780105114
+epoch: 1
+dev_loss: 98729.5269394
+last 5000 samples time: 97.121147871
+epoch: 1
+dev_loss: 97329.560791
+last 5000 samples time: 99.6010301113
+epoch: 1
+dev_loss: 97021.1004143
+last 5000 samples time: 97.4100999832
+epoch: 1
+dev_loss: 97077.5677261
+last 5000 samples time: 99.11353302
+epoch: 1
+dev_loss: 96315.5520744
+last 5000 samples time: 98.4588410854
+epoch: 1
+dev_loss: 95438.2004395
+last 5000 samples time: 93.1725480556
+epoch: 1
+dev_loss: 94767.6285706
+last 5000 samples time: 98.2636380196
+epoch: 1
+dev_loss: 95247.9205589
+last 5000 samples time: 97.8161730766
+epoch: 1
+dev_loss: 93711.0537376
+last 5000 samples time: 94.750015974
+epoch: 1
+dev_loss: 94148.9913521
+last 5000 samples time: 98.5020830631
+epoch: 1
+dev_loss: 93246.4571533
+last 5000 samples time: 96.2831909657
+epoch: 1
+dev_loss: 92482.5904541
+last 5000 samples time: 97.9989922047
+epoch: 1
+dev_loss: 91628.3755569
+last 5000 samples time: 98.0043709278
+epoch: 1
+dev_loss: 92288.4688759
+last 5000 samples time: 98.9676961899
+epoch: 1
+dev_loss: 91684.1610374
+last 5000 samples time: 1.23741817474
+epoch: 2
+dev_loss: 91310.7599468
+last 5000 samples time: 95.8025829792
+epoch: 2
+dev_loss: 90579.2120895
+last 5000 samples time: 101.809566021
+epoch: 2
+dev_loss: 90057.5475311
+last 5000 samples time: 98.9387979507
+epoch: 2
+dev_loss: 90854.2013283
+last 5000 samples time: 93.4624769688
+epoch: 2
+dev_loss: 89598.6399727
+last 5000 samples time: 102.075775146
+epoch: 2
+dev_loss: 88986.4174099
+last 5000 samples time: 94.1362569332
+epoch: 2
+dev_loss: 88927.6346798
+last 5000 samples time: 99.105973959
+epoch: 2
+dev_loss: 88776.928236
+last 5000 samples time: 95.248857975
+epoch: 2
+dev_loss: 88462.8082657
+last 5000 samples time: 96.1288228035
+epoch: 2
+dev_loss: 88453.2431488
+last 5000 samples time: 95.3243570328
+epoch: 2
+dev_loss: 87223.5598831
+last 5000 samples time: 94.1057641506
+epoch: 2
+dev_loss: 86861.8429375
+last 5000 samples time: 95.6278400421
+epoch: 2
+dev_loss: 86309.3800564
+last 5000 samples time: 95.7441291809
+epoch: 2
+dev_loss: 86848.0643806
+last 5000 samples time: 93.9639079571
+epoch: 2
+dev_loss: 85938.8562584
+last 5000 samples time: 120.32787919
+epoch: 2
+dev_loss: 85772.4128723
+last 5000 samples time: 135.500149012
+epoch: 2
+dev_loss: 85427.4568634
+last 5000 samples time: 98.7840869427
+epoch: 2
+dev_loss: 85894.9944611
+last 5000 samples time: 99.9475650787
+epoch: 2
+dev_loss: 84900.6165314
+last 5000 samples time: 97.7335190773
+epoch: 2
+dev_loss: 84815.3823681
+last 5000 samples time: 1.06482195854
+epoch: 3
+dev_loss: 85117.7434959
+last 5000 samples time: 136.012904882
+epoch: 3
+dev_loss: 84060.1822128
+last 5000 samples time: 135.154634953
+epoch: 3
+dev_loss: 84533.268528
+last 5000 samples time: 111.736634016
+epoch: 3
+dev_loss: 83405.7494793
+last 5000 samples time: 158.692133904
+epoch: 3
+dev_loss: 83938.9574966
+last 5000 samples time: 92.404294014
+epoch: 3
+dev_loss: 84390.4637489
+last 5000 samples time: 94.3204209805
+epoch: 3
+dev_loss: 85314.0869751
+last 5000 samples time: 94.8409759998
+epoch: 3
+dev_loss: 83053.6595898
+last 5000 samples time: 95.3155829906
+epoch: 3
+dev_loss: 82671.781908
+last 5000 samples time: 95.6599309444
+epoch: 3
+dev_loss: 82751.9961548
+last 5000 samples time: 95.6149840355
+epoch: 3
+dev_loss: 82063.7405529
+last 5000 samples time: 99.9989039898
+epoch: 3
+dev_loss: 82137.6259975
+last 5000 samples time: 100.226618052
+epoch: 3
+dev_loss: 81976.5649376
+last 5000 samples time: 92.860779047
+epoch: 3
+dev_loss: 81815.4512501
+last 5000 samples time: 99.7883758545
+epoch: 3
+dev_loss: 82081.5719452
+last 5000 samples time: 100.527815104
+epoch: 3
+dev_loss: 82086.3046036
+last 5000 samples time: 91.3057570457
+epoch: 3
+dev_loss: 80975.0882072
+last 5000 samples time: 97.6074740887
+epoch: 3
+dev_loss: 80931.5282974
+last 5000 samples time: 100.951751947
+epoch: 3
+dev_loss: 80056.5923138
+last 5000 samples time: 96.2364470959
+epoch: 3
+dev_loss: 80162.2866096
+last 5000 samples time: 1.04547905922
+epoch: 4
+dev_loss: 79771.1785774
+last 5000 samples time: 99.0858550072
+epoch: 4
+dev_loss: 79706.5304489
+last 5000 samples time: 94.6023380756
+epoch: 4
+dev_loss: 79817.4094124
+last 5000 samples time: 99.5005960464
+epoch: 4
+dev_loss: 79400.1380177
+last 5000 samples time: 90.1358108521
+epoch: 4
+dev_loss: 79476.0231743
+last 5000 samples time: 97.7568049431
+epoch: 4
+dev_loss: 79606.6043262
+last 5000 samples time: 100.706676006
+epoch: 4
+dev_loss: 78856.2252007
+last 5000 samples time: 99.8794660568
+epoch: 4
+dev_loss: 78661.3576241
+last 5000 samples time: 94.1569399834
+epoch: 4
+dev_loss: 79117.1815548
+last 5000 samples time: 98.9371581078
+epoch: 4
+dev_loss: 78937.668478
+last 5000 samples time: 90.3270740509
+epoch: 4
+dev_loss: 78366.9338531
+last 5000 samples time: 98.0837469101
+epoch: 4
+dev_loss: 78315.7184029
+last 5000 samples time: 95.7438290119
+epoch: 4
+dev_loss: 78130.3074665
+last 5000 samples time: 94.0605480671
+epoch: 4
+dev_loss: 78290.6921368
+last 5000 samples time: 94.8074328899
+epoch: 4
+dev_loss: 78710.6711082
+last 5000 samples time: 98.3691899776
+epoch: 4
+dev_loss: 77243.4139595
+last 5000 samples time: 93.7689709663
+epoch: 4
+dev_loss: 77194.7827778
+last 5000 samples time: 106.87014389
+epoch: 4
+dev_loss: 76988.9319859
+last 5000 samples time: 92.9563920498
+epoch: 4
+dev_loss: 77348.6807175
+last 5000 samples time: 99.391190052
+epoch: 4
+dev_loss: 78194.7931595
+last 5000 samples time: 0.477768182755
+epoch: 5
+dev_loss: 76981.5539446
+last 5000 samples time: 100.592213154
+epoch: 5
+dev_loss: 76854.5800123
+last 5000 samples time: 94.6982269287
+epoch: 5
+dev_loss: 76392.6549587
+last 5000 samples time: 91.6478672028
+epoch: 5
+dev_loss: 77733.7394409
+last 5000 samples time: 94.5532240868
+epoch: 5
+dev_loss: 76404.8335838
+last 5000 samples time: 94.2399539948
+epoch: 5
+dev_loss: 76006.5287094
+last 5000 samples time: 96.2302079201
+epoch: 5
+dev_loss: 76126.6281033
+last 5000 samples time: 90.6812138557
+epoch: 5
+dev_loss: 76087.655056
+last 5000 samples time: 96.3667099476
+epoch: 5
+dev_loss: 75639.7861099
+last 5000 samples time: 103.549459934
+epoch: 5
+dev_loss: 75483.5982552
+last 5000 samples time: 97.0077469349
+epoch: 5
+dev_loss: 75797.9826241
+last 5000 samples time: 100.174604893
+epoch: 5
+dev_loss: 75775.401865
+last 5000 samples time: 100.920911074
+epoch: 5
+dev_loss: 75970.9902477
+last 5000 samples time: 99.8158581257
+epoch: 5
+dev_loss: 74736.636344
+last 5000 samples time: 98.8053789139
+epoch: 5
+dev_loss: 75190.9051304
+last 5000 samples time: 95.7834401131
+epoch: 5
+dev_loss: 74772.4139328
+last 5000 samples time: 95.6181612015
+epoch: 5
+dev_loss: 75292.6394005
+last 5000 samples time: 98.7335329056
+epoch: 5
+dev_loss: 74592.5724611
+last 5000 samples time: 98.1412529945
+epoch: 5
+dev_loss: 74866.1869631
+last 5000 samples time: 96.07782197
+epoch: 5
+dev_loss: 74065.4955206
+last 5000 samples time: 0.768743038177
+epoch: 6
+dev_loss: 73900.6230564
+last 5000 samples time: 91.8366308212
+epoch: 6
+dev_loss: 74227.6337986
+last 5000 samples time: 93.5550649166
+epoch: 6
+dev_loss: 73989.5460472
+last 5000 samples time: 100.927007198
+epoch: 6
+dev_loss: 74604.9287605
+last 5000 samples time: 94.1328940392
+epoch: 6
+dev_loss: 73895.1972561
+last 5000 samples time: 93.036438942
+epoch: 6
+dev_loss: 73661.9902477
+last 5000 samples time: 95.037225008
+epoch: 6
+dev_loss: 74244.2159863
+last 5000 samples time: 94.7754378319
+epoch: 6
+dev_loss: 73435.266613
+last 5000 samples time: 97.6649370193
+epoch: 6
+dev_loss: 73691.2319107
+last 5000 samples time: 99.8246629238
+epoch: 6
+dev_loss: 73278.807621
+last 5000 samples time: 92.4724910259
+epoch: 6
+dev_loss: 73572.1124287
+last 5000 samples time: 96.1477780342
+epoch: 6
+dev_loss: 72755.4391861
+last 5000 samples time: 94.0703389645
+epoch: 6
+dev_loss: 73266.2250891
+last 5000 samples time: 99.8495080471
+epoch: 6
+dev_loss: 72486.1423101
+last 5000 samples time: 95.9627029896
+epoch: 6
+dev_loss: 73218.5929356
+last 5000 samples time: 100.183581829
+epoch: 6
+dev_loss: 73509.782506
+last 5000 samples time: 102.634896994
+epoch: 6
+dev_loss: 72239.4308186
+last 5000 samples time: 101.019590139
+epoch: 6
+dev_loss: 72146.4907665
+last 5000 samples time: 98.3187978268
+epoch: 6
+dev_loss: 72263.7974501
+last 5000 samples time: 102.050974846
+epoch: 6
+dev_loss: 72138.138936
+last 5000 samples time: 0.378595113754
+epoch: 7
+dev_loss: 72011.8755894
+last 5000 samples time: 98.8496448994
+epoch: 7
+dev_loss: 71621.0279131
+last 5000 samples time: 99.1583869457
+epoch: 7
+dev_loss: 71706.1203756
+last 5000 samples time: 97.2005181313
+epoch: 7
+dev_loss: 73203.6081343
+last 5000 samples time: 98.0389428139
+epoch: 7
+dev_loss: 71685.1040325
+last 5000 samples time: 99.9190950394
+epoch: 7
+dev_loss: 71392.9766684
+last 5000 samples time: 102.194391966
+epoch: 7
+dev_loss: 71341.8778553
+last 5000 samples time: 98.4231979847
+epoch: 7
+dev_loss: 71150.466753
+last 5000 samples time: 97.0559999943
+epoch: 7
+dev_loss: 71067.497797
+last 5000 samples time: 95.9883761406
+epoch: 7
+dev_loss: 71087.661046
+last 5000 samples time: 92.2194159031
+epoch: 7
+dev_loss: 71294.8292904
+last 5000 samples time: 95.3509869576
+epoch: 7
+dev_loss: 70603.810235
+last 5000 samples time: 100.29659915
+epoch: 7
+dev_loss: 71048.7545691
+last 5000 samples time: 95.6643471718
+epoch: 7
+dev_loss: 70800.1329279
+last 5000 samples time: 94.9237928391
+epoch: 7
+dev_loss: 70749.1458025
+last 5000 samples time: 102.679966927
+epoch: 7
+dev_loss: 70545.1421928
+last 5000 samples time: 93.1902358532
+epoch: 7
+dev_loss: 70366.2784948
+last 5000 samples time: 95.3355710506
+epoch: 7
+dev_loss: 70935.2082481
+last 5000 samples time: 91.1173081398
+epoch: 7
+dev_loss: 70517.3428478
+last 5000 samples time: 93.466989994
+epoch: 7
+dev_loss: 70538.5702887
+last 5000 samples time: 0.378697156906
+epoch: 8
+dev_loss: 70417.4288988
+last 5000 samples time: 95.9469959736
+epoch: 8
+dev_loss: 69839.3712721
+last 5000 samples time: 97.6956648827
+epoch: 8
+dev_loss: 70040.2256565
+last 5000 samples time: 95.1296470165
+epoch: 8
+dev_loss: 69937.0753546
+last 5000 samples time: 99.6730408669
+epoch: 8
+dev_loss: 69737.9416351
+last 5000 samples time: 101.314794064
+epoch: 8
+dev_loss: 69669.6463184
+last 5000 samples time: 96.2366530895
+epoch: 8
+dev_loss: 69580.478713
+last 5000 samples time: 98.018666029
+epoch: 8
+dev_loss: 69557.7162142
+last 5000 samples time: 94.4160978794
+epoch: 8
+dev_loss: 69436.1361246
+last 5000 samples time: 97.6401021481
+epoch: 8
+dev_loss: 69616.5260944
+last 5000 samples time: 94.6975078583
+epoch: 8
+dev_loss: 70265.2396927
+last 5000 samples time: 99.4482569695
+epoch: 8
+dev_loss: 69201.5448513
+last 5000 samples time: 95.2155079842
+epoch: 8
+dev_loss: 69162.107892
+last 5000 samples time: 101.044367075
+epoch: 8
+dev_loss: 69197.3035526
+last 5000 samples time: 98.8836350441
+epoch: 8
+dev_loss: 69302.9661751
+last 5000 samples time: 97.1902060509
+epoch: 8
+dev_loss: 69028.5931101
+last 5000 samples time: 97.9815001488
+epoch: 8
+dev_loss: 68792.0653229
+last 5000 samples time: 95.4316048622
+epoch: 8
+dev_loss: 68962.6986418
+last 5000 samples time: 99.518807888
+epoch: 8
+dev_loss: 68544.7056274
+last 5000 samples time: 91.3368809223
+epoch: 8
+dev_loss: 68728.9483671
+last 5000 samples time: 0.745236158371
+epoch: 9
+dev_loss: 68593.0786629
+last 5000 samples time: 100.379287004
+epoch: 9
+dev_loss: 68362.8713388
+last 5000 samples time: 95.4559290409
+epoch: 9
+dev_loss: 68567.1566629
+last 5000 samples time: 95.8789391518
+epoch: 9
+dev_loss: 68703.250617
+last 5000 samples time: 99.5800127983
+epoch: 9
+dev_loss: 68385.5852928
+last 5000 samples time: 96.8456218243
+epoch: 9
+dev_loss: 68349.0177364
+last 5000 samples time: 97.0598230362
+epoch: 9
+dev_loss: 70303.1805067
+last 5000 samples time: 99.7524309158
+epoch: 9
+dev_loss: 68114.95364
+last 5000 samples time: 96.7866251469
+epoch: 9
+dev_loss: 68455.127944
+last 5000 samples time: 97.4909789562
+epoch: 9
+dev_loss: 68090.3092775
+last 5000 samples time: 101.98369503
+epoch: 9
+dev_loss: 67735.9720154
+last 5000 samples time: 98.8236050606
+epoch: 9
+dev_loss: 67764.9519529
+last 5000 samples time: 94.988368988
+epoch: 9
+dev_loss: 67721.0888386
+last 5000 samples time: 96.060655117
+epoch: 9
+dev_loss: 67683.8271685
+last 5000 samples time: 92.1871409416
+epoch: 9
+dev_loss: 67793.2045031
+last 5000 samples time: 95.3891170025
+epoch: 9
+dev_loss: 67469.0940552
+last 5000 samples time: 94.6326210499
+epoch: 9
+dev_loss: 67468.4077892
+last 5000 samples time: 100.120543003
+epoch: 9
+dev_loss: 67675.3281937
+last 5000 samples time: 91.6601340771
+epoch: 9
+dev_loss: 68510.7968321
+last 5000 samples time: 94.8622839451
+epoch: 9
+dev_loss: 68346.5517845
+last 5000 samples time: 0.669600963593
+epoch: 10
+dev_loss: 67123.9755058
+last 5000 samples time: 99.3802959919
+epoch: 10
+dev_loss: 66941.2273417
+last 5000 samples time: 98.4684789181
+epoch: 10
+dev_loss: 66988.5414906
+last 5000 samples time: 92.1519391537
+epoch: 10
+dev_loss: 67614.3700085
+last 5000 samples time: 94.1812288761
+epoch: 10
+dev_loss: 67336.0869036
+last 5000 samples time: 96.1522312164
+epoch: 10
+dev_loss: 67755.803896
+last 5000 samples time: 95.6626369953
+epoch: 10
+dev_loss: 67088.0289364
+last 5000 samples time: 96.2015600204
+epoch: 10
+dev_loss: 67154.4532299
+last 5000 samples time: 98.2858021259
+epoch: 10
+dev_loss: 67110.2097206
+last 5000 samples time: 95.787430048
+epoch: 10
+dev_loss: 66837.1279821
+last 5000 samples time: 93.0685830116
+epoch: 10
+dev_loss: 66551.322175
+last 5000 samples time: 98.3548231125
+epoch: 10
+dev_loss: 66233.36833
+last 5000 samples time: 99.9816129208
+epoch: 10
+dev_loss: 67720.9197464
+last 5000 samples time: 94.7004239559
+epoch: 10
+dev_loss: 66213.1906986
+last 5000 samples time: 96.4034099579
+epoch: 10
+dev_loss: 66807.9720755
+last 5000 samples time: 96.5052521229
+epoch: 10
+dev_loss: 66505.1250544
+last 5000 samples time: 93.4454729557
+epoch: 10
+dev_loss: 66107.1757154
+last 5000 samples time: 100.643979073
+epoch: 10
+dev_loss: 65974.3880053
+last 5000 samples time: 100.021761894
+epoch: 10
+dev_loss: 65898.3050213
+last 5000 samples time: 102.494415045
+epoch: 10
+dev_loss: 66065.5503569
+last 5000 samples time: 0.487416028976
+epoch: 11
+dev_loss: 66837.3451128
+last 5000 samples time: 100.093891859
+epoch: 11
+dev_loss: 65816.1889734
+last 5000 samples time: 94.5448899269
+epoch: 11
+dev_loss: 65940.1343508
+last 5000 samples time: 95.3547480106
+epoch: 11
+dev_loss: 65696.5509005
+last 5000 samples time: 89.6450259686
+epoch: 11
+dev_loss: 65676.5479565
+last 5000 samples time: 96.2985291481
+epoch: 11
+dev_loss: 65661.6386366
+last 5000 samples time: 99.3387899399
+epoch: 11
+dev_loss: 65505.3814974
+last 5000 samples time: 99.049271822
+epoch: 11
+dev_loss: 66268.6637526
+last 5000 samples time: 95.527875185
+epoch: 11
+dev_loss: 65470.832819
+last 5000 samples time: 94.5309400558
+epoch: 11
+dev_loss: 65636.100419
+last 5000 samples time: 99.9879341125
+epoch: 11
+dev_loss: 65339.8670168
+last 5000 samples time: 97.9784729481
+epoch: 11
+dev_loss: 65679.5948582
+last 5000 samples time: 102.569696903
+epoch: 11
+dev_loss: 65094.5329552
+last 5000 samples time: 97.3587431908
+epoch: 11
+dev_loss: 65117.8750057
+last 5000 samples time: 98.3885760307
+epoch: 11
+dev_loss: 65376.3573761
+last 5000 samples time: 104.510020971
+epoch: 11
+dev_loss: 65417.9016457
+last 5000 samples time: 96.9181089401
+epoch: 11
+dev_loss: 65221.6398067
+last 5000 samples time: 93.4451417923
+epoch: 11
+dev_loss: 65113.5381203
+last 5000 samples time: 90.3389029503
+epoch: 11
+dev_loss: 65296.2955742
+last 5000 samples time: 100.957439899
+epoch: 11
+dev_loss: 65207.6919212
+last 5000 samples time: 1.12141394615
+epoch: 12
+dev_loss: 65028.7703743
+last 5000 samples time: 98.0760331154
+epoch: 12
+dev_loss: 64737.9688673
+last 5000 samples time: 96.7244160175
+epoch: 12
+dev_loss: 64826.1340208
+last 5000 samples time: 96.2534050941
+epoch: 12
+dev_loss: 64521.1290264
+last 5000 samples time: 98.5453391075
+epoch: 12
+dev_loss: 64591.88799
+last 5000 samples time: 94.2288100719
+epoch: 12
+dev_loss: 64963.6919003
+last 5000 samples time: 98.6832239628
+epoch: 12
+dev_loss: 66163.464797
+last 5000 samples time: 95.8417568207
+epoch: 12
+dev_loss: 64617.8933439
+last 5000 samples time: 97.350787878
+epoch: 12
+dev_loss: 64580.0431938
+last 5000 samples time: 94.6329929829
+epoch: 12
+dev_loss: 64951.8106661
+last 5000 samples time: 100.832294941
+epoch: 12
+dev_loss: 64447.8444338
+last 5000 samples time: 98.6157181263
+epoch: 12
+dev_loss: 64320.9411516
+last 5000 samples time: 98.9499189854
+epoch: 12
+dev_loss: 64430.863739
+last 5000 samples time: 94.4928820133
+epoch: 12
+dev_loss: 64233.7883148
+last 5000 samples time: 92.9646339417
+epoch: 12
+dev_loss: 64118.2761421
+last 5000 samples time: 92.9959797859
+epoch: 12
+dev_loss: 64181.5333271
+last 5000 samples time: 96.9104249477
+epoch: 12
+dev_loss: 64617.4847298
+last 5000 samples time: 100.531885147
+epoch: 12
+dev_loss: 63845.4391317
+last 5000 samples time: 98.2262849808
+epoch: 12
+dev_loss: 64498.2000465
+last 5000 samples time: 97.7836790085
+epoch: 12
+dev_loss: 64732.9271803
+last 5000 samples time: 0.456352949142
+epoch: 13
+dev_loss: 64582.5172148
+last 5000 samples time: 91.3244371414
+epoch: 13
+dev_loss: 64008.4140167
+last 5000 samples time: 96.5230231285
+epoch: 13
+dev_loss: 63712.2318449
+last 5000 samples time: 94.679074049
+epoch: 13
+dev_loss: 63919.2981205
+last 5000 samples time: 98.8090429306
+epoch: 13
+dev_loss: 63837.349081
+last 5000 samples time: 95.8353788853
+epoch: 13
+dev_loss: 64057.0358858
+last 5000 samples time: 89.2359349728
+epoch: 13
+dev_loss: 63952.2785845
+last 5000 samples time: 100.418113947
+epoch: 13
+dev_loss: 65061.6379566
+last 5000 samples time: 88.9682512283
+epoch: 13
+dev_loss: 63618.8217306
+last 5000 samples time: 98.0288660526
+epoch: 13
+dev_loss: 64784.3301201
+last 5000 samples time: 96.1749567986
+epoch: 13
+dev_loss: 63594.115983
+last 5000 samples time: 103.200879097
+epoch: 13
+dev_loss: 63556.4497261
+last 5000 samples time: 97.0141990185
+epoch: 13
+dev_loss: 63344.909483
+last 5000 samples time: 95.694822073
+epoch: 13
+dev_loss: 63192.4580746
+last 5000 samples time: 99.5627381802
+epoch: 13
+dev_loss: 63340.9023075
+last 5000 samples time: 100.437911987
+epoch: 13
+dev_loss: 63413.3288727
+last 5000 samples time: 98.6604459286
+epoch: 13
+dev_loss: 63117.341444
+last 5000 samples time: 106.367327929
+epoch: 13
+dev_loss: 63164.9759235
+last 5000 samples time: 91.3021688461
+epoch: 13
+dev_loss: 63091.594635
+last 5000 samples time: 99.4753930569
+epoch: 13
+dev_loss: 63768.7990513
+last 5000 samples time: 0.481487035751
+epoch: 14
+dev_loss: 63363.7058449
+last 5000 samples time: 94.7061901093
+epoch: 14
+dev_loss: 62967.8423815
+last 5000 samples time: 97.8336250782
+epoch: 14
+dev_loss: 63098.3344679
+last 5000 samples time: 97.9648721218
+epoch: 14
+dev_loss: 63128.2914076
+last 5000 samples time: 98.2778708935
+epoch: 14
+dev_loss: 63679.1124744
+last 5000 samples time: 97.1827049255
+epoch: 14
+dev_loss: 63014.2451773
+last 5000 samples time: 99.3106610775
+epoch: 14
+dev_loss: 62946.1624279
+last 5000 samples time: 100.197673082
+epoch: 14
+dev_loss: 63135.0792055
+last 5000 samples time: 96.4807939529
+epoch: 14
+dev_loss: 62662.5517159
+last 5000 samples time: 95.4445929527
+epoch: 14
+dev_loss: 62628.5154791
+last 5000 samples time: 93.8109118938
+epoch: 14
+dev_loss: 62938.8235521
+last 5000 samples time: 97.1551458836
+epoch: 14
+dev_loss: 62556.9077568
+last 5000 samples time: 96.9161310196
+epoch: 14
+dev_loss: 62787.7596655
+last 5000 samples time: 90.7835578918
+epoch: 14
+dev_loss: 63203.3553572
+last 5000 samples time: 101.019695044
+epoch: 14
+dev_loss: 62468.8025112
+last 5000 samples time: 100.387449026
+epoch: 14
+dev_loss: 62542.0776043
+last 5000 samples time: 103.559933186
+epoch: 14
+dev_loss: 62491.1765804
+last 5000 samples time: 94.8385899067
+epoch: 14
+dev_loss: 62528.5460653
+last 5000 samples time: 92.6910190582
+epoch: 14
+dev_loss: 62333.7813778
+last 5000 samples time: 94.627117157
+epoch: 14
+dev_loss: 62296.0930367
+last 5000 samples time: 0.359975099564
+epoch: 15
+dev_loss: 62438.4157686
+last 5000 samples time: 93.2086009979
+epoch: 15
+dev_loss: 62637.1940145
+last 5000 samples time: 98.5766720772
+epoch: 15
+dev_loss: 61968.6845741
+last 5000 samples time: 97.443873167
+epoch: 15
+dev_loss: 62468.8386421
+last 5000 samples time: 94.842345953
+epoch: 15
+dev_loss: 62089.7353277
+last 5000 samples time: 101.809476137
+epoch: 15
+dev_loss: 62149.8548136
+last 5000 samples time: 97.0445771217
+epoch: 15
+dev_loss: 61914.1412401
+last 5000 samples time: 99.9961471558
+epoch: 15
+dev_loss: 62145.006856
+last 5000 samples time: 94.1775550842
+epoch: 15
+dev_loss: 62556.5652504
+last 5000 samples time: 94.5053620338
+epoch: 15
+dev_loss: 62970.7364006
+last 5000 samples time: 96.9310460091
+epoch: 15
+dev_loss: 61962.3435688
+last 5000 samples time: 95.8100140095
+epoch: 15
+dev_loss: 62132.0515518
+last 5000 samples time: 100.555170059
+epoch: 15
+dev_loss: 61734.4687538
+last 5000 samples time: 96.2229530811
+epoch: 15
+dev_loss: 61885.0385542
+last 5000 samples time: 96.5043370724
+epoch: 15
+dev_loss: 61966.2944765
+last 5000 samples time: 102.046040058
+epoch: 15
+dev_loss: 61681.9823437
+last 5000 samples time: 95.2268638611
+epoch: 15
+dev_loss: 61525.4664402
+last 5000 samples time: 99.409332037
+epoch: 15
+dev_loss: 61763.2372088
+last 5000 samples time: 92.5967059135
+epoch: 15
+dev_loss: 61964.352766
+last 5000 samples time: 98.8909170628
+epoch: 15
+dev_loss: 61707.3456917
+last 5000 samples time: 0.734028100967
+epoch: 16
+dev_loss: 62136.5292549
+last 5000 samples time: 96.4219210148
+epoch: 16
+dev_loss: 61684.6816511
+last 5000 samples time: 99.4287259579
+epoch: 16
+dev_loss: 63659.507266
+last 5000 samples time: 97.8308720589
+epoch: 16
+dev_loss: 61746.5942173
+last 5000 samples time: 95.627820015
+epoch: 16
+dev_loss: 62684.772006
+last 5000 samples time: 89.1549389362
+epoch: 16
+dev_loss: 62729.3086071
+last 5000 samples time: 92.5736291409
+epoch: 16
+dev_loss: 61979.1855125
+last 5000 samples time: 99.4514191151
+epoch: 16
+dev_loss: 61690.4771776
+last 5000 samples time: 95.2546238899
+epoch: 16
+dev_loss: 61378.0891676
+last 5000 samples time: 97.3261790276
+epoch: 16
+dev_loss: 61515.1467371
+last 5000 samples time: 95.7772860527
+epoch: 16
+dev_loss: 61508.4201422
+last 5000 samples time: 101.074961901
+epoch: 16
+dev_loss: 61325.8940458
+last 5000 samples time: 96.450553894
+epoch: 16
+dev_loss: 61286.3715057
+last 5000 samples time: 96.1379289627
+epoch: 16
+dev_loss: 61468.7754993
+last 5000 samples time: 100.243906021
+epoch: 16
+dev_loss: 61124.60853
+last 5000 samples time: 97.5016739368
+epoch: 16
+dev_loss: 61412.8349152
+last 5000 samples time: 100.175186157
+epoch: 16
+dev_loss: 61103.0378094
+last 5000 samples time: 95.0244250298
+epoch: 16
+dev_loss: 60950.527153
+last 5000 samples time: 99.8999390602
+epoch: 16
+dev_loss: 61602.2677126
+last 5000 samples time: 95.7800929546
+epoch: 16
+dev_loss: 61397.1997662
+last 5000 samples time: 1.24698495865
+epoch: 17
+dev_loss: 61365.0019722
+last 5000 samples time: 96.5098290443
+epoch: 17
+dev_loss: 61125.9814148
+last 5000 samples time: 98.3050980568
+epoch: 17
+dev_loss: 60836.4762783
+last 5000 samples time: 96.9818179607
+epoch: 17
+dev_loss: 61053.4070711
+last 5000 samples time: 96.4332969189
+epoch: 17
+dev_loss: 61857.5037136
+last 5000 samples time: 95.1192510128
+epoch: 17
+dev_loss: 60913.848815
+last 5000 samples time: 98.9045259953
+epoch: 17
+dev_loss: 61005.89429
+last 5000 samples time: 100.717668056
+epoch: 17
+dev_loss: 61368.0152979
+last 5000 samples time: 90.8011078835
+epoch: 17
+dev_loss: 61238.5352602
+last 5000 samples time: 96.1759459972
+epoch: 17
+dev_loss: 60899.4240541
+last 5000 samples time: 100.399544001
+epoch: 17
+dev_loss: 60944.054471
+last 5000 samples time: 92.7785248756
+epoch: 17
+dev_loss: 60993.7037449
+last 5000 samples time: 99.0357620716
+epoch: 17
+dev_loss: 60709.9392586
+last 5000 samples time: 97.2498791218
+epoch: 17
+dev_loss: 60995.7655697
+last 5000 samples time: 97.7818279266
+epoch: 17
+dev_loss: 60796.8779392
+last 5000 samples time: 95.0891139507
+epoch: 17
+dev_loss: 60604.9447718
+last 5000 samples time: 96.6154999733
+epoch: 17
+dev_loss: 60911.425251
+last 5000 samples time: 99.1556341648
+epoch: 17
+dev_loss: 60368.9531441
+last 5000 samples time: 96.9210939407
+epoch: 17
+dev_loss: 61748.9914207
+last 5000 samples time: 97.455742836
+epoch: 17
+dev_loss: 60794.7187948
+last 5000 samples time: 0.514169931412
+epoch: 18
+dev_loss: 60768.7166424
+last 5000 samples time: 95.9296021461
+epoch: 18
+dev_loss: 60547.1065755
+last 5000 samples time: 92.6574780941
+epoch: 18
+dev_loss: 60517.6349688
+last 5000 samples time: 101.419405937
+epoch: 18
+dev_loss: 60464.8313503
+last 5000 samples time: 95.1833600998
+epoch: 18
+dev_loss: 60397.0497341
+last 5000 samples time: 96.7561640739
+epoch: 18
+dev_loss: 61259.2248535
+last 5000 samples time: 93.8457510471
+epoch: 18
+dev_loss: 60545.7561235
+last 5000 samples time: 99.9421219826
+epoch: 18
+dev_loss: 60455.3562822
+last 5000 samples time: 99.4076020718
+epoch: 18
+dev_loss: 60614.6294723
+last 5000 samples time: 94.85374403
+epoch: 18
+dev_loss: 60516.5380211
+last 5000 samples time: 94.3492941856
+epoch: 18
+dev_loss: 60302.6502876
+last 5000 samples time: 92.9258778095
+epoch: 18
+dev_loss: 60319.2226028
+last 5000 samples time: 99.9756069183
+epoch: 18
+dev_loss: 60300.1952066
+last 5000 samples time: 93.6352880001
+epoch: 18
+dev_loss: 60719.3122845
+last 5000 samples time: 96.9632630348
+epoch: 18
+dev_loss: 60418.6164007
+last 5000 samples time: 91.8671150208
+epoch: 18
+dev_loss: 60280.6088314
+last 5000 samples time: 102.940433979
+epoch: 18
+dev_loss: 60470.1517191
+last 5000 samples time: 98.9657769203
+epoch: 18
+dev_loss: 60110.2182684
+last 5000 samples time: 101.660563946
+epoch: 18
+dev_loss: 60129.6709394
+last 5000 samples time: 96.1352500916
+epoch: 18
+dev_loss: 60027.6303921
+last 5000 samples time: 1.08589816093
+epoch: 19
+dev_loss: 60061.8703842
+last 5000 samples time: 93.5271770954
+epoch: 19
+dev_loss: 60217.1030016
+last 5000 samples time: 95.8260059357
+epoch: 19
+dev_loss: 60316.2982531
+last 5000 samples time: 96.2294588089
+epoch: 19
+dev_loss: 60032.2147856
+last 5000 samples time: 92.1612920761
+epoch: 19
+dev_loss: 59947.2783537
+last 5000 samples time: 97.1248929501
+epoch: 19
+dev_loss: 60119.2303486
+last 5000 samples time: 93.8983898163
+epoch: 19
+dev_loss: 60220.7270174
+last 5000 samples time: 94.9243638515
+epoch: 19
+dev_loss: 60659.9581976
+last 5000 samples time: 103.773542881
+epoch: 19
+dev_loss: 59976.4746895
+last 5000 samples time: 99.0309760571
+epoch: 19
+dev_loss: 59966.3590441
+last 5000 samples time: 100.798764944
+epoch: 19
+dev_loss: 59795.4029713
+last 5000 samples time: 96.7179310322
+epoch: 19
+dev_loss: 59996.3434792
+last 5000 samples time: 101.01534009
+epoch: 19
+dev_loss: 59877.020112
+last 5000 samples time: 92.8663930893
+epoch: 19
+dev_loss: 60296.0206318
+last 5000 samples time: 99.9274151325
+epoch: 19
+dev_loss: 59878.874671
+last 5000 samples time: 94.9899661541
+epoch: 19
+dev_loss: 59898.8529253
+last 5000 samples time: 96.9765100479
+epoch: 19
+dev_loss: 59632.4745855
+last 5000 samples time: 98.2436800003
+epoch: 19
+dev_loss: 59888.2352228
+last 5000 samples time: 99.1911211014
+epoch: 19
+dev_loss: 59435.1690273
+last 5000 samples time: 97.6535651684
+epoch: 19
+dev_loss: 59524.6651297
+last 5000 samples time: 0.551297187805
+epoch: 20
+dev_loss: 59822.9399061
+last 5000 samples time: 98.8061599731
+epoch: 20
+dev_loss: 59930.8063898
+last 5000 samples time: 98.6283519268
+epoch: 20
+dev_loss: 59954.8823395
+last 5000 samples time: 96.9881820679
+epoch: 20
+dev_loss: 60036.3546982
+last 5000 samples time: 99.5927119255
+epoch: 20
+dev_loss: 59573.5218086
+last 5000 samples time: 98.0120658875
+epoch: 20
+dev_loss: 59629.6734381
+last 5000 samples time: 97.8310208321
+epoch: 20
+dev_loss: 59521.8635054
+last 5000 samples time: 96.9677479267
+epoch: 20
+dev_loss: 59636.2230968
+last 5000 samples time: 95.2547900677
+epoch: 20
+dev_loss: 59511.3877554
+last 5000 samples time: 95.7554140091
+epoch: 20
+dev_loss: 59196.8507767
+last 5000 samples time: 100.80735898
+epoch: 20
+dev_loss: 59718.0510273
+last 5000 samples time: 94.9169070721
+epoch: 20
+dev_loss: 60059.6452217
+last 5000 samples time: 99.7158269882
+epoch: 20
+dev_loss: 59492.3691092
+last 5000 samples time: 97.6268589497
+epoch: 20
+dev_loss: 59796.2613716
+last 5000 samples time: 93.5818271637
+epoch: 20
+dev_loss: 59392.8092098
+last 5000 samples time: 93.8836219311
+epoch: 20
+dev_loss: 59745.1115894
+last 5000 samples time: 94.1573040485
+epoch: 20
+dev_loss: 59342.9667673
+last 5000 samples time: 95.2984209061
+epoch: 20
+dev_loss: 59662.3569651
+last 5000 samples time: 97.2455539703
+epoch: 20
+dev_loss: 59357.5378962
+last 5000 samples time: 101.159207106
+epoch: 20
+dev_loss: 59357.2428055
+last 5000 samples time: 0.522552013397
+epoch: 21
+dev_loss: 59504.7523956
+last 5000 samples time: 101.730540991
+epoch: 21
+dev_loss: 59224.619648
+last 5000 samples time: 97.6256120205
+epoch: 21
+dev_loss: 59266.1564112
+last 5000 samples time: 94.1088328362
+epoch: 21
+dev_loss: 59573.2706461
+last 5000 samples time: 96.164896965
+epoch: 21
+dev_loss: 59392.6422977
+last 5000 samples time: 97.2405998707
+epoch: 21
+dev_loss: 59307.6606007
+last 5000 samples time: 100.642250061
+epoch: 21
+dev_loss: 59410.2214975
+last 5000 samples time: 96.5096039772
+epoch: 21
+dev_loss: 59707.9641094
+last 5000 samples time: 100.360085011
+epoch: 21
+dev_loss: 59340.9581203
+last 5000 samples time: 92.7344460487
+epoch: 21
+dev_loss: 59331.0911112
+last 5000 samples time: 101.962381124
+epoch: 21
+dev_loss: 59052.5515718
+last 5000 samples time: 95.979115963
+epoch: 21
+dev_loss: 59129.7085199
+last 5000 samples time: 94.4762480259
+epoch: 21
+dev_loss: 59294.3911705
+last 5000 samples time: 102.238757849
+epoch: 21
+dev_loss: 59211.955637
+last 5000 samples time: 95.2925400734
+epoch: 21
+dev_loss: 59527.365099
+last 5000 samples time: 99.206897974
+epoch: 21
+dev_loss: 59031.9357624
+last 5000 samples time: 95.6442551613
+epoch: 21
+dev_loss: 58988.2466784
+last 5000 samples time: 94.86364007
+epoch: 21
+dev_loss: 58989.3785782
+last 5000 samples time: 95.8738369942
+epoch: 21
+dev_loss: 58908.7545137
+last 5000 samples time: 91.9687559605
+epoch: 21
+dev_loss: 59092.5838327
+last 5000 samples time: 0.543296813965
+epoch: 22
+dev_loss: 59381.7832775
+last 5000 samples time: 95.5589430332
+epoch: 22
+dev_loss: 59084.5441713
+last 5000 samples time: 96.6611890793
+epoch: 22
+dev_loss: 59122.0860424
+last 5000 samples time: 96.6284320354
+epoch: 22
+dev_loss: 58988.6533327
+last 5000 samples time: 95.1349959373
+epoch: 22
+dev_loss: 59074.4501095
+last 5000 samples time: 93.5984289646
+epoch: 22
+dev_loss: 59115.5865889
+last 5000 samples time: 94.1628069878
+epoch: 22
+dev_loss: 59620.7982388
+last 5000 samples time: 93.4458799362
+epoch: 22
+dev_loss: 59011.976717
+last 5000 samples time: 100.781782866
+epoch: 22
+dev_loss: 58929.9565582
+last 5000 samples time: 95.1841449738
+epoch: 22
+dev_loss: 59553.3151903
+last 5000 samples time: 101.786407948
+epoch: 22
+dev_loss: 59693.0126276
+last 5000 samples time: 98.7992179394
+epoch: 22
+dev_loss: 58905.8215637
+last 5000 samples time: 97.6698679924
+epoch: 22
+dev_loss: 58936.5273981
+last 5000 samples time: 156.202770948
+epoch: 22
+dev_loss: 59186.1614447
+last 5000 samples time: 158.521080971
+epoch: 22
+dev_loss: 58804.6966877
+last 5000 samples time: 104.233296871
+epoch: 22
+dev_loss: 58783.0066204
+last 5000 samples time: 94.0662498474
+epoch: 22
+dev_loss: 59295.7878828
+last 5000 samples time: 93.227837801
+epoch: 22
+dev_loss: 58714.8734121
+last 5000 samples time: 95.9560828209
+epoch: 22
+dev_loss: 58745.3901529
+last 5000 samples time: 98.4161679745
+epoch: 22
+dev_loss: 58687.1938744
+last 5000 samples time: 0.414802074432
+epoch: 23
+dev_loss: 59016.3063517
+last 5000 samples time: 98.4883511066
+epoch: 23
+dev_loss: 58499.7527723
+last 5000 samples time: 96.7866489887
+epoch: 23
+dev_loss: 58850.8633909
+last 5000 samples time: 95.4737260342
+epoch: 23
+dev_loss: 58528.6733971
+last 5000 samples time: 103.207341909
+epoch: 23
+dev_loss: 58800.4133005
+last 5000 samples time: 95.4169199467
+epoch: 23
+dev_loss: 59191.6407642
+last 5000 samples time: 97.0884308815
+epoch: 23
+dev_loss: 58891.1413307
+last 5000 samples time: 92.2894561291
+epoch: 23
+dev_loss: 58716.794487
+last 5000 samples time: 98.2550089359
+epoch: 23
+dev_loss: 58560.895484
+last 5000 samples time: 99.1977529526
+epoch: 23
+dev_loss: 58749.4075708
+last 5000 samples time: 94.7446479797
+epoch: 23
+dev_loss: 58795.8595524
+last 5000 samples time: 98.6087870598
+epoch: 23
+dev_loss: 58792.2520971
+last 5000 samples time: 122.949526072
+epoch: 23
+dev_loss: 58993.1733398
+last 5000 samples time: 154.849700928
+epoch: 23
+dev_loss: 58817.8797913
+last 5000 samples time: 142.384433985
+epoch: 23
+dev_loss: 58481.1060448
+last 5000 samples time: 149.045801878
+epoch: 23
+dev_loss: 59148.040329
+last 5000 samples time: 96.9491970539
+epoch: 23
+dev_loss: 58625.0694609
+last 5000 samples time: 94.7272408009
+epoch: 23
+dev_loss: 58558.2820835
+last 5000 samples time: 96.5362231731
+epoch: 23
+dev_loss: 58599.7735205
+last 5000 samples time: 95.8423249722
+epoch: 23
+dev_loss: 59371.7826738
+last 5000 samples time: 0.465929985046
+epoch: 24
+dev_loss: 58652.4750147
+last 5000 samples time: 100.353577852
+epoch: 24
+dev_loss: 59650.7057457
+last 5000 samples time: 103.019807816
+epoch: 24
+dev_loss: 58149.4452887
+last 5000 samples time: 95.9742908478
+epoch: 24
+dev_loss: 58451.5634851
+last 5000 samples time: 95.1630289555
+epoch: 24
+dev_loss: 58554.3094902
+last 5000 samples time: 96.702311039
+epoch: 24
+dev_loss: 58380.9810581
+last 5000 samples time: 97.7410738468
+epoch: 24
+dev_loss: 58370.622818
+last 5000 samples time: 94.9640939236
+epoch: 24
+dev_loss: 58491.6917725
+last 5000 samples time: 101.086611032
+epoch: 24
+dev_loss: 58162.6614017
+last 5000 samples time: 91.1542429924
+epoch: 24
+dev_loss: 58367.4723568
+last 5000 samples time: 100.434186935
+epoch: 24
+dev_loss: 58489.5303478
+last 5000 samples time: 97.2391171455
+epoch: 24
+dev_loss: 58343.2585974
+last 5000 samples time: 96.0413479805
+epoch: 24
+dev_loss: 58580.661684
+last 5000 samples time: 94.0153939724
+epoch: 24
+dev_loss: 58264.09093
+last 5000 samples time: 94.0343720913
+epoch: 24
+dev_loss: 58609.1965055
+last 5000 samples time: 97.2447659969
+epoch: 24
+dev_loss: 58341.3947163
+last 5000 samples time: 94.9405260086
+epoch: 24
+dev_loss: 58204.1852427
+last 5000 samples time: 99.8032541275
+epoch: 24
+dev_loss: 58847.7167864
+last 5000 samples time: 93.9818270206
+epoch: 24
+dev_loss: 58262.9096403
+last 5000 samples time: 98.6890821457
+epoch: 24
+dev_loss: 58121.0410166
+last 5000 samples time: 1.06266212463
+epoch: 25
+dev_loss: 58235.4054356
+last 5000 samples time: 95.1067318916
+epoch: 25
+dev_loss: 58112.9814692
+last 5000 samples time: 94.7085630894
+epoch: 25
+dev_loss: 58318.0897446
+last 5000 samples time: 99.3814520836
+epoch: 25
+dev_loss: 58206.0950327
+last 5000 samples time: 95.5592570305
+epoch: 25
+dev_loss: 58191.062686
+last 5000 samples time: 95.2047679424
+epoch: 25
+dev_loss: 58357.3602734
+last 5000 samples time: 95.9129021168
+epoch: 25
+dev_loss: 58639.8202457
+last 5000 samples time: 103.038193941
+epoch: 25
+dev_loss: 58406.4189949
+last 5000 samples time: 95.0190830231
+epoch: 25
+dev_loss: 58115.7422695
+last 5000 samples time: 97.1447310448
+epoch: 25
+dev_loss: 58263.8371992
+last 5000 samples time: 90.4663140774
+epoch: 25
+dev_loss: 58487.8157673
+last 5000 samples time: 101.251660109
+epoch: 25
+dev_loss: 58376.0682049
+last 5000 samples time: 135.824666977
+epoch: 25
+dev_loss: 58013.4706497
+last 5000 samples time: 154.956360817
+epoch: 25
+dev_loss: 59695.0252571
+last 5000 samples time: 136.71074605
+epoch: 25
+dev_loss: 58348.6876001
+last 5000 samples time: 93.4015951157
+epoch: 25
+dev_loss: 58063.0986567
+last 5000 samples time: 96.762130022
+epoch: 25
+dev_loss: 58323.9756708
+last 5000 samples time: 96.8960709572
+epoch: 25
+dev_loss: 58099.2347746
+last 5000 samples time: 98.1802210808
+epoch: 25
+dev_loss: 58289.4031153
+last 5000 samples time: 98.0450639725
+epoch: 25
+dev_loss: 58356.7698679
+last 5000 samples time: 0.204941034317
+epoch: 26
+dev_loss: 57893.5530186
+last 5000 samples time: 95.8880021572
+epoch: 26
+dev_loss: 57978.1004686
+last 5000 samples time: 92.6114649773
+epoch: 26
+dev_loss: 58598.3759041
+last 5000 samples time: 120.552493095
+epoch: 26
+dev_loss: 57875.5767765
+last 5000 samples time: 121.606134892
+epoch: 26
+dev_loss: 58094.6029243
+last 5000 samples time: 105.06757617
+epoch: 26
+dev_loss: 58239.2723999
+last 5000 samples time: 119.308099031
+epoch: 26
+dev_loss: 57990.394516
+last 5000 samples time: 98.3892531395
+epoch: 26
+dev_loss: 57824.1829872
+last 5000 samples time: 117.281254053
+epoch: 26
+dev_loss: 58048.9470472
+last 5000 samples time: 93.2058148384
+epoch: 26
+dev_loss: 57949.8114004
+last 5000 samples time: 101.629316092
+epoch: 26
+dev_loss: 58139.745801
+last 5000 samples time: 101.088060141
+epoch: 26
+dev_loss: 57960.6249933
+last 5000 samples time: 95.0708329678
+epoch: 26
+dev_loss: 57993.8538046
+last 5000 samples time: 99.1204152107
+epoch: 26
+dev_loss: 57796.7397308
+last 5000 samples time: 92.0371320248
+epoch: 26
+dev_loss: 57944.4247751
+last 5000 samples time: 93.7250869274
+epoch: 26
+dev_loss: 57670.7637587
+last 5000 samples time: 93.327299118
+epoch: 26
+dev_loss: 57878.6300049
+last 5000 samples time: 94.9275550842
+epoch: 26
+dev_loss: 58109.0967093
+last 5000 samples time: 99.1054389477
+epoch: 26
+dev_loss: 57830.8852282
+last 5000 samples time: 99.8627049923
+epoch: 26
+dev_loss: 57739.4432745
+last 5000 samples time: 1.1034719944
+epoch: 27
+dev_loss: 57755.8322229
+last 5000 samples time: 95.1852240562
+epoch: 27
+dev_loss: 57831.123805
+last 5000 samples time: 97.7838959694
+epoch: 27
+dev_loss: 57664.8192425
+last 5000 samples time: 103.147572041
+epoch: 27
+dev_loss: 58262.0316238
+last 5000 samples time: 92.7878038883
+epoch: 27
+dev_loss: 57904.6279249
+last 5000 samples time: 93.4457640648
+epoch: 27
+dev_loss: 57775.5713577
+last 5000 samples time: 96.9211370945
+epoch: 27
+dev_loss: 57946.3709612
+last 5000 samples time: 94.3659999371
+epoch: 27
+dev_loss: 57933.3359871
+last 5000 samples time: 103.06844902
+epoch: 27
+dev_loss: 57838.640893
+last 5000 samples time: 99.5505800247
+epoch: 27
+dev_loss: 57783.2699718
+last 5000 samples time: 97.2932808399
+epoch: 27
+dev_loss: 57633.1807966
+last 5000 samples time: 96.5557508469
+epoch: 27
+dev_loss: 57943.6312103
+last 5000 samples time: 95.52688694
+epoch: 27
+dev_loss: 57726.1932697
+last 5000 samples time: 96.0455009937
+epoch: 27
+dev_loss: 57678.5217371
+last 5000 samples time: 92.076996088
+epoch: 27
+dev_loss: 57854.7585745
+last 5000 samples time: 98.8634681702
+epoch: 27
+dev_loss: 57740.3461914
+last 5000 samples time: 96.613462925
+epoch: 27
+dev_loss: 57801.3566456
+last 5000 samples time: 94.5844650269
+epoch: 27
+dev_loss: 57683.4155369
+last 5000 samples time: 94.9423289299
+epoch: 27
+dev_loss: 57546.7544136
+last 5000 samples time: 96.8568408489
+epoch: 27
+dev_loss: 57499.9147968
+last 5000 samples time: 0.338148117065
+epoch: 28
+dev_loss: 57400.068017
+last 5000 samples time: 94.4776368141
+epoch: 28
+dev_loss: 57853.8585463
+last 5000 samples time: 99.6887738705
+epoch: 28
+dev_loss: 58259.9946632
+last 5000 samples time: 100.466137886
+epoch: 28
+dev_loss: 57525.8618574
+last 5000 samples time: 96.6977138519
+epoch: 28
+dev_loss: 57602.3789587
+last 5000 samples time: 99.4864270687
+epoch: 28
+dev_loss: 57530.7871981
+last 5000 samples time: 97.3790440559
+epoch: 28
+dev_loss: 57507.0354576
+last 5000 samples time: 90.5638780594
+epoch: 28
+dev_loss: 57434.8202696
+last 5000 samples time: 94.7763979435
+epoch: 28
+dev_loss: 57756.2438784
+last 5000 samples time: 96.8086931705
+epoch: 28
+dev_loss: 58042.8533754
+last 5000 samples time: 97.4762041569
+epoch: 28
+dev_loss: 57630.7707291
+last 5000 samples time: 93.4027290344
+epoch: 28
+dev_loss: 58041.5308857
+last 5000 samples time: 95.7665920258
+epoch: 28
+dev_loss: 57341.9790564
+last 5000 samples time: 98.7070310116
+epoch: 28
+dev_loss: 57890.0999546
+last 5000 samples time: 95.7891778946
+epoch: 28
+dev_loss: 57700.1761465
+last 5000 samples time: 95.0496020317
+epoch: 28
+dev_loss: 57636.8781443
+last 5000 samples time: 101.78468895
+epoch: 28
+dev_loss: 57606.1473799
+last 5000 samples time: 96.7919471264
+epoch: 28
+dev_loss: 57503.8093433
+last 5000 samples time: 93.9809219837
+epoch: 28
+dev_loss: 57434.7613688
+last 5000 samples time: 95.1835861206
+epoch: 28
+dev_loss: 57639.3939476
+last 5000 samples time: 0.558124065399
+epoch: 29
+dev_loss: 57376.3191137
+last 5000 samples time: 94.4550931454
+epoch: 29
+dev_loss: 57635.3498287
+last 5000 samples time: 95.8223049641
+epoch: 29
+dev_loss: 57435.9414349
+last 5000 samples time: 100.818826199
+epoch: 29
+dev_loss: 57423.512476
+last 5000 samples time: 93.4678509235
+epoch: 29
+dev_loss: 57485.7885294
+last 5000 samples time: 96.2914459705
+epoch: 29
+dev_loss: 57630.9541845
+last 5000 samples time: 92.593806982
+epoch: 29
+dev_loss: 58031.9612274
+last 5000 samples time: 92.8931250572
+epoch: 29
+dev_loss: 58198.5769339
+last 5000 samples time: 94.9103050232
+epoch: 29
+dev_loss: 57468.5430927
+last 5000 samples time: 96.8471679688
+epoch: 29
+dev_loss: 57306.7460279
+last 5000 samples time: 95.5588049889
+epoch: 29
+dev_loss: 57929.8025227
+last 5000 samples time: 97.0978369713
+epoch: 29
+dev_loss: 57317.9410143
+last 5000 samples time: 98.5417079926
+epoch: 29
+dev_loss: 57430.4216824
+last 5000 samples time: 99.3693180084
+epoch: 29
+dev_loss: 57331.0686073
+last 5000 samples time: 100.228865862
+epoch: 29
+dev_loss: 57593.4331226
+last 5000 samples time: 92.9018797874
+epoch: 29
+dev_loss: 57574.4689674
+last 5000 samples time: 94.4562790394
+epoch: 29
+dev_loss: 58330.348423
+last 5000 samples time: 99.0537750721
+epoch: 29
+dev_loss: 57431.1786299
+last 5000 samples time: 98.1964190006
+epoch: 29
+dev_loss: 57292.4223166
+last 5000 samples time: 102.41443491
+epoch: 29
+dev_loss: 57536.9355078
+last 5000 samples time: 0.683667898178
+epoch: 30
+dev_loss: 57582.0417175
+last 5000 samples time: 92.9598400593
+epoch: 30
+dev_loss: 57267.9548683
+last 5000 samples time: 96.2989029884
+epoch: 30
+dev_loss: 57246.9334669
+last 5000 samples time: 90.659168005
+epoch: 30
+dev_loss: 57489.0962362
+last 5000 samples time: 102.02915287
+epoch: 30
+dev_loss: 57351.3457508
+last 5000 samples time: 95.6801948547
+epoch: 30
+dev_loss: 57436.9622679
+last 5000 samples time: 93.964042902
+epoch: 30
+dev_loss: 57530.6508465
+last 5000 samples time: 101.920434952
+epoch: 30
+dev_loss: 56956.7179918
+last 5000 samples time: 99.2866799831
+epoch: 30
+dev_loss: 57330.6753912
+last 5000 samples time: 95.8135490417
+epoch: 30
+dev_loss: 57683.8297243
+last 5000 samples time: 95.5675017834
+epoch: 30
+dev_loss: 57273.7187176
+last 5000 samples time: 97.9214119911
+epoch: 30
+dev_loss: 57200.6926842
+last 5000 samples time: 96.2659831047
+epoch: 30
+dev_loss: 57249.6310406
+last 5000 samples time: 99.9366362095
+epoch: 30
+dev_loss: 57029.3409042
+last 5000 samples time: 91.1239778996
+epoch: 30
+dev_loss: 57442.5014448
+last 5000 samples time: 95.1506018639
+epoch: 30
+dev_loss: 57355.5459175
+last 5000 samples time: 97.9169018269
+epoch: 30
+dev_loss: 56977.4688339
+last 5000 samples time: 95.9840190411
+epoch: 30
+dev_loss: 57384.2882185
+last 5000 samples time: 100.577542067
+epoch: 30
+dev_loss: 57286.1676645
+last 5000 samples time: 96.6592080593
+epoch: 30
+dev_loss: 57342.8825865
+last 5000 samples time: 0.883270025253
+epoch: 31
+dev_loss: 57411.1464424
+last 5000 samples time: 91.6876168251
+epoch: 31
+dev_loss: 57584.8401546
+last 5000 samples time: 96.6798439026
+epoch: 31
+dev_loss: 57193.921649
+last 5000 samples time: 99.6737718582
+epoch: 31
+dev_loss: 56976.9811974
+last 5000 samples time: 101.417316914
+epoch: 31
+dev_loss: 57300.9096403
+last 5000 samples time: 99.9619519711
+epoch: 31
+dev_loss: 57395.6840258
+last 5000 samples time: 94.0074748993
+epoch: 31
+dev_loss: 57224.4386206
+last 5000 samples time: 94.5815958977
+epoch: 31
+dev_loss: 57487.7865114
+last 5000 samples time: 88.8924109936
+epoch: 31
+dev_loss: 57310.0978117
+last 5000 samples time: 100.323709965
+epoch: 31
+dev_loss: 57248.3752422
+last 5000 samples time: 92.209182024
+epoch: 31
+dev_loss: 57249.4815216
+last 5000 samples time: 95.7593860626
+epoch: 31
+dev_loss: 57256.2841806
+last 5000 samples time: 96.5829100609
+epoch: 31
+dev_loss: 58003.5262022
+last 5000 samples time: 96.5699179173
+epoch: 31
+dev_loss: 57300.9633427
+last 5000 samples time: 101.389297009
+epoch: 31
+dev_loss: 56941.7035046
+last 5000 samples time: 98.1910970211
+epoch: 31
+dev_loss: 57434.250021
+last 5000 samples time: 99.1392760277
+epoch: 31
+dev_loss: 57046.8111029
+last 5000 samples time: 96.54626894
+epoch: 31
+dev_loss: 57136.7826099
+last 5000 samples time: 92.9528100491
+epoch: 31
+dev_loss: 57502.688653
+last 5000 samples time: 98.2105388641
+epoch: 31
+dev_loss: 57414.4965057
+last 5000 samples time: 1.2010178566
+epoch: 32
+dev_loss: 57148.1962996
+last 5000 samples time: 96.9554588795
+epoch: 32
+dev_loss: 57107.7916718
+last 5000 samples time: 95.4040799141
+epoch: 32
+dev_loss: 56819.1860113
+last 5000 samples time: 93.8718328476
+epoch: 32
+dev_loss: 57659.8359528
+last 5000 samples time: 100.690498114
+epoch: 32
+dev_loss: 57095.2813721
+last 5000 samples time: 92.1399428844
+epoch: 32
+dev_loss: 56950.274457
+last 5000 samples time: 97.1567919254
+epoch: 32
+dev_loss: 57257.5983562
+last 5000 samples time: 94.5893490314
+epoch: 32
+dev_loss: 57121.2243423
+last 5000 samples time: 97.44156003
+epoch: 32
+dev_loss: 56843.8958874
+last 5000 samples time: 100.710618019
+epoch: 32
+dev_loss: 56774.4133987
+last 5000 samples time: 91.7847340107
+epoch: 32
+dev_loss: 56604.4602375
+last 5000 samples time: 98.5419960022
+epoch: 32
+dev_loss: 57527.6069117
+last 5000 samples time: 103.280761003
+epoch: 32
+dev_loss: 57142.6633205
+last 5000 samples time: 97.681319952
+epoch: 32
+dev_loss: 57081.6183805
+last 5000 samples time: 88.9644451141
+epoch: 32
+dev_loss: 57110.3676834
+last 5000 samples time: 93.8787398338
+epoch: 32
+dev_loss: 56792.4190893
+last 5000 samples time: 94.701102972
+epoch: 32
+dev_loss: 57148.3730993
+last 5000 samples time: 98.191409111
+epoch: 32
+dev_loss: 56748.5917253
+last 5000 samples time: 100.605722904
+epoch: 32
+dev_loss: 57338.9564905
+last 5000 samples time: 98.0943129063
+epoch: 32
+dev_loss: 57024.1948366
+last 5000 samples time: 0.605149030685
+epoch: 33
+dev_loss: 56755.1208372
+last 5000 samples time: 100.41155982
+epoch: 33
+dev_loss: 56805.3788204
+last 5000 samples time: 98.0169899464
+epoch: 33
+dev_loss: 56914.1508446
+last 5000 samples time: 99.0319981575
+epoch: 33
+dev_loss: 56996.3808327
+last 5000 samples time: 98.9941389561
+epoch: 33
+dev_loss: 57578.0666656
+last 5000 samples time: 96.6333169937
+epoch: 33
+dev_loss: 57338.6537933
+last 5000 samples time: 92.393930912
+epoch: 33
+dev_loss: 56803.7146769
+last 5000 samples time: 91.5268158913
+epoch: 33
+dev_loss: 57164.0260963
+last 5000 samples time: 92.7861530781
+epoch: 33
+dev_loss: 56946.6252623
+last 5000 samples time: 95.1326220036
+epoch: 33
+dev_loss: 56714.5100403
+last 5000 samples time: 90.9290781021
+epoch: 33
+dev_loss: 56952.085598
+last 5000 samples time: 94.9728970528
+epoch: 33
+dev_loss: 57278.1040459
+last 5000 samples time: 94.3206460476
+epoch: 33
+dev_loss: 57637.2211523
+last 5000 samples time: 99.5695240498
+epoch: 33
+dev_loss: 56785.3289127
+last 5000 samples time: 100.577563047
+epoch: 33
+dev_loss: 57017.5828381
+last 5000 samples time: 99.1759331226
+epoch: 33
+dev_loss: 56728.0232878
+last 5000 samples time: 99.2846930027
+epoch: 33
+dev_loss: 56830.1398449
+last 5000 samples time: 97.0581002235
+epoch: 33
+dev_loss: 57201.8792362
+last 5000 samples time: 99.5596790314
+epoch: 33
+dev_loss: 56603.958436
+last 5000 samples time: 98.0836009979
+epoch: 33
+dev_loss: 56557.684226
